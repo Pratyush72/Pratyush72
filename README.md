@@ -101,18 +101,18 @@
 ## 🏆 Experience Timeline
 
 ```text
-2021  ─── Started BCA @ CCS University
-2024  ─── Completed BCA
-2024  ─── Started MCA @ Galgotias University
+2021 - 2024  ─── BCA from CCS University
+2024 - 2026  ─── MCA from Galgotias University
+2024  ───  MCA @ Galgotias University
 2025  ─── Internship @ CampusForces
-2026  ─── Completing MCA · Shipping production apps
+2026  ─── Freelance Software Developer
 ```
 
 <br/>
 
 ## 🎯 Current Goals
 
-- 🚀 Build & launch SaaS products
+- 🚀 Build & launch Website
 - ⚙️ Master advanced backend & system design
 - 🌍 Contribute to open source
 - 💼 Become a Software Engineer at a great company
