@@ -25,10 +25,10 @@
 
 | 💼 Project | 💻 Tech Stack | ⭐ |
 |:---|:---:|:---:|
-| 🏥 [Sheila Urology Website](https://github.com/Pratyush72) | `Python` `Flask` `MySQL` `Tailwind` `AWS` | ⭐ |
-| 🎓 [CampusForces v2.0](https://github.com/Pratyush72) | `Flask` `SQLAlchemy` `MySQL` | ⭐ |
-| 🚗 [Car Price Prediction](https://github.com/Pratyush72) | `Python` `ML` `Django` | ⭐ |
-| 📊 [E-Commerce Sales Dashboard](https://github.com/Pratyush72) | `Power BI` `Excel` `SQL` | ⭐ |
+| 🏥 [Sheila Urology Website](https://sheilaurologycentre.in/) | `Python` `Flask` `MySQL` `Tailwind` `AWS` | ⭐ |
+| 🎓 [CampusForces v2.0](https://campusforces.in/) | `Flask` `SQLAlchemy` `MySQL` | ⭐ |
+| 🚗 [Car Price Prediction](https://github.com/Pratyush72/Carpricepredction) | `Python` `ML` `Django` | ⭐ |
+| 📊 [E-Commerce Sales Dashboard](https://pratyush72.github.io/eCom/) | `Power BI` `Excel` `SQL` | ⭐ |
 | 🌐 [Personal Portfolio](https://pratyushchaubey.com) | `Flask` `HTML` `CSS` `JS` | ⭐ |
 
 <br/>
@@ -101,11 +101,10 @@
 ## 🏆 Experience Timeline
 
 ```text
-2021 - 2024  ─── BCA from CCS University
-2024 - 2026  ─── MCA from Galgotias University
-2024  ───  MCA @ Galgotias University
-2025  ─── Internship @ CampusForces
-2026  ─── Freelance Software Developer
+2021 - 2024    ─── BCA from CCS University
+2024 - 2026    ─── MCA from Galgotias University
+2025 - 2026    ─── Internship @ CampusForces
+2026 - Present ─── Freelance Software Developer
 ```
 
 <br/>
@@ -122,18 +121,10 @@
 
 ## 📫 Connect With Me
 
-<a href="mailto:pratyush2chaubey@gmail.com">
-<img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/Pratyush72">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/pratyush-chaubey-8ab289188/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://pratyushchaubey.com/">
-<img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-</a>
+<a href="mailto:pratyush2chaubey@gmail.com"><img src="https://img.shields.io/badge/Email-ff7eb6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/Pratyush72"><img src="https://img.shields.io/badge/GitHub-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.instagram.com/pratyush_72/"><img src="https://img.shields.io/badge/Instagram-e879f9?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+
 
 <br/><br/>
 
