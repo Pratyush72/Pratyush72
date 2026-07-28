@@ -20,7 +20,7 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
 
   <g class="row" style="animation-delay:0.90s">
     <circle cx="26" cy="91" r="5" fill="#ff7a59"/>
-    <text x="40" y="96" font-size="13" fill="#e6edf3" font-weight="bold">HTML</text>
+    <text x="40" y="96" font-size="13" fill="#e6edf3" font-weight="bold">Python</text>
     <text x="396" y="96" text-anchor="end" font-size="13" fill="#ff7a59" font-weight="bold">82.0%</text>
     <rect x="40" y="104" width="268" height="9" rx="4.5" fill="#241740"/>
     <rect class="bar" x="40" y="104" width="219.8" height="9" rx="4.5" fill="#ff7a59" style="animation-delay:1.05s">
@@ -29,7 +29,7 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
   </g>
   <g class="row" style="animation-delay:1.25s">
     <circle cx="26" cy="133" r="5" fill="#7db8ff"/>
-    <text x="40" y="138" font-size="13" fill="#e6edf3" font-weight="bold">TypeScript</text>
+    <text x="40" y="138" font-size="13" fill="#e6edf3" font-weight="bold">Django</text>
     <text x="396" y="138" text-anchor="end" font-size="13" fill="#7db8ff" font-weight="bold">12.0%</text>
     <rect x="40" y="146" width="268" height="9" rx="4.5" fill="#241740"/>
     <rect class="bar" x="40" y="146" width="32.2" height="9" rx="4.5" fill="#7db8ff" style="animation-delay:1.40s">
@@ -38,7 +38,7 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
   </g>
   <g class="row" style="animation-delay:1.60s">
     <circle cx="26" cy="175" r="5" fill="#c084fc"/>
-    <text x="40" y="180" font-size="13" fill="#e6edf3" font-weight="bold">CSS</text>
+    <text x="40" y="180" font-size="13" fill="#e6edf3" font-weight="bold">Flask</text>
     <text x="396" y="180" text-anchor="end" font-size="13" fill="#c084fc" font-weight="bold">4.0%</text>
     <rect x="40" y="188" width="268" height="9" rx="4.5" fill="#241740"/>
     <rect class="bar" x="40" y="188" width="10.7" height="9" rx="4.5" fill="#c084fc" style="animation-delay:1.75s">
@@ -47,7 +47,7 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
   </g>
   <g class="row" style="animation-delay:1.95s">
     <circle cx="26" cy="217" r="5" fill="#fde047"/>
-    <text x="40" y="222" font-size="13" fill="#e6edf3" font-weight="bold">JavaScript</text>
+    <text x="40" y="222" font-size="13" fill="#e6edf3" font-weight="bold">Tailwind Css</text>
     <text x="396" y="222" text-anchor="end" font-size="13" fill="#fde047" font-weight="bold">2.0%</text>
     <rect x="40" y="230" width="268" height="9" rx="4.5" fill="#241740"/>
     <rect class="bar" x="40" y="230" width="5.4" height="9" rx="4.5" fill="#fde047" style="animation-delay:2.10s">
