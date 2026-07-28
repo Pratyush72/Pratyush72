@@ -94,8 +94,7 @@
 
 ### 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/Pratyush72/Pratyush72/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
-
+<img src="https://raw.githubusercontent.com/Pratyush72/Pratyush72/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
 <br/><br/>
 
 ## 🏆 Experience Timeline
