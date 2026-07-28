@@ -111,16 +111,24 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
 <text clip-path="url(#cHi)" x="48" y="114" font-size="24" font-weight="bold" fill="#e6edf3">Hi, I'm 👋</text>
 
 <!-- Name: Pratyush Chaubey (Pacifico outlines, per-letter pop, animated gradient) -->
-<svg width="320" height="80" viewBox="0 0 320 80" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="nameg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#22d3ee"/>
-      <stop offset="50%" stop-color="#a78bfa"/>
-      <stop offset="100%" stop-color="#f472b6"/>
-    </linearGradient>
-  </defs>
-  <text x="10" y="55" font-family="Georgia, serif" font-size="48" font-weight="700" fill="url(#nameg)">PRATYUSH</text>
-</svg>
+<defs>
+  <linearGradient id="nameg" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#22d3ee"/>
+    <stop offset="50%" stop-color="#a78bfa"/>
+    <stop offset="100%" stop-color="#f472b6"/>
+  </linearGradient>
+</defs>
+
+<g transform="translate(48,196)" fill="url(#nameg)" filter="url(#glow)">
+  <g class="ltr" style="animation-delay:1.60s"><text x="0"   y="0" font-family="'Segoe Script','Brush Script MT',cursive" font-size="48" font-weight="700">P</text></g>
+  <g class="ltr" style="animation-delay:1.69s"><text x="34"  y="0" font-family="'Segoe Script','Brush Script MT',cursive" font-size="48" font-weight="700">R</text></g>
+  <g class="ltr" style="animation-delay:1.78s"><text x="68"  y="0" font-family="'Segoe Script','Brush Script MT',cursive" font-size="48" font-weight="700">A</text></g>
+  <g class="ltr" style="animation-delay:1.87s"><text x="100" y="0" font-family="'Segoe Script','Brush Script MT',cursive" font-size="48" font-weight="700">T</text></g>
+  <g class="ltr" style="animation-delay:1.96s"><text x="128" y="0" font-family="'Segoe Script','Brush Script MT',cursive" font-size="48" font-weight="700">Y</text></g>
+  <g class="ltr" style="animation-delay:2.05s"><text x="156" y="0" font-family="'Segoe Script','Brush Script MT',cursive" font-size="48" font-weight="700">U</text></g>
+  <g class="ltr" style="animation-delay:2.14s"><text x="188" y="0" font-family="'Segoe Script','Brush Script MT',cursive" font-size="48" font-weight="700">S</text></g>
+  <g class="ltr" style="animation-delay:2.23s"><text x="216" y="0" font-family="'Segoe Script','Brush Script MT',cursive" font-size="48" font-weight="700">H</text></g>
+</g>
 <g class="hb" style="animation-delay:3s"><path d="M410 168 c-5-11-21-9-21 4 0 9 12 16 21 22 9-6 21-13 21-22 0-13-16-15-21-4z" fill="#22d3ee" opacity=".95"/></g>
 
 <!-- Cycling roles -->
