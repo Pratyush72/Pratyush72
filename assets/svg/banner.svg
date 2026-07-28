@@ -104,7 +104,7 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
 
 <!-- ================= LEFT: CONTENT ================= -->
 <!-- Terminal prompt -->
-<text clip-path="url(#cPrompt)" x="48" y="69" font-size="14"><tspan fill="#4ade80" font-weight="bold">Pratyush@Python-developer</tspan><tspan fill="#8b949e">:~$ </tspan><tspan fill="#e6edf3">cat </tspan><tspan fill="#38bdf8">README.md</tspan></text>
+<text clip-path="url(#cPrompt)" x="48" y="69" font-size="14"><tspan fill="#4ade80" font-weight="bold">pratyush@Python-developer</tspan><tspan fill="#8b949e">:~$ </tspan><tspan fill="#e6edf3">cat </tspan><tspan fill="#38bdf8">README.md</tspan></text>
 <rect x="454" y="56" width="8" height="16" fill="#4ade80" opacity="0"><animate attributeName="opacity" values="1;0" dur="1s" repeatCount="indefinite" begin="1.35s"/></rect>
 
 <!-- Hi, I'm -->
@@ -149,12 +149,12 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
 
 <!-- Tech I Know -->
 <text class="ii" x="48" y="374" font-size="15" fill="#818cf8" font-weight="bold" style="animation:fadeIn .4s ease 4.6s forwards">🧩 Tech I Know</text>
-<g class="pill" style="animation:fadeIn .3s ease 4.8s forwards"><rect x="48" y="388" width="76" height="26" rx="13" fill="rgba(227,79,38,.13)" stroke="#e34f26" stroke-width="1"/><text x="86" y="405" text-anchor="middle" font-size="12" fill="#ff8a65" font-weight="bold">HTML</text></g>
-<g class="pill" style="animation:fadeIn .3s ease 4.9s forwards"><rect x="132" y="388" width="70" height="26" rx="13" fill="rgba(38,119,189,.15)" stroke="#38bdf8" stroke-width="1"/><text x="167" y="405" text-anchor="middle" font-size="12" fill="#7dd3fc" font-weight="bold">CSS</text></g>
-<g class="pill" style="animation:fadeIn .3s ease 5s forwards"><rect x="210" y="388" width="110" height="26" rx="13" fill="rgba(247,223,30,.10)" stroke="#f7df1e" stroke-width="1"/><text x="265" y="405" text-anchor="middle" font-size="12" fill="#fde047" font-weight="bold">JavaScript</text></g>
-<g class="pill" style="animation:fadeIn .3s ease 5.1s forwards"><rect x="328" y="388" width="80" height="26" rx="13" fill="rgba(97,218,251,.10)" stroke="#61dafb" stroke-width="1"/><text x="368" y="405" text-anchor="middle" font-size="12" fill="#67e8f9" font-weight="bold">React</text></g>
-<g class="pill" style="animation:fadeIn .3s ease 5.2s forwards"><rect x="48" y="422" width="64" height="26" rx="13" fill="rgba(0,118,206,.14)" stroke="#4a9eda" stroke-width="1"/><text x="80" y="439" text-anchor="middle" font-size="12" fill="#93c5fd" font-weight="bold">SAP</text></g>
-<g class="pill" style="animation:fadeIn .3s ease 5.3s forwards"><rect x="120" y="422" width="64" height="26" rx="13" fill="rgba(139,92,246,.14)" stroke="#6366f1" stroke-width="1"/><text x="152" y="439" text-anchor="middle" font-size="12" fill="#c4b5fd" font-weight="bold">SQL</text></g>
+<g class="pill" style="animation:fadeIn .3s ease 4.8s forwards"><rect x="48" y="388" width="76" height="26" rx="13" fill="rgba(227,79,38,.13)" stroke="#e34f26" stroke-width="1"/><text x="86" y="405" text-anchor="middle" font-size="12" fill="#ff8a65" font-weight="bold">PYTHON</text></g>
+<g class="pill" style="animation:fadeIn .3s ease 4.9s forwards"><rect x="132" y="388" width="70" height="26" rx="13" fill="rgba(38,119,189,.15)" stroke="#38bdf8" stroke-width="1"/><text x="167" y="405" text-anchor="middle" font-size="12" fill="#7dd3fc" font-weight="bold">DJANGO</text></g>
+<g class="pill" style="animation:fadeIn .3s ease 5s forwards"><rect x="210" y="388" width="110" height="26" rx="13" fill="rgba(247,223,30,.10)" stroke="#f7df1e" stroke-width="1"/><text x="265" y="405" text-anchor="middle" font-size="12" fill="#fde047" font-weight="bold">FLASK</text></g>
+<g class="pill" style="animation:fadeIn .3s ease 5.1s forwards"><rect x="328" y="388" width="80" height="26" rx="13" fill="rgba(97,218,251,.10)" stroke="#61dafb" stroke-width="1"/><text x="368" y="405" text-anchor="middle" font-size="12" fill="#67e8f9" font-weight="bold">SQL</text></g>
+<g class="pill" style="animation:fadeIn .3s ease 5.2s forwards"><rect x="48" y="422" width="64" height="26" rx="13" fill="rgba(0,118,206,.14)" stroke="#4a9eda" stroke-width="1"/><text x="80" y="439" text-anchor="middle" font-size="12" fill="#93c5fd" font-weight="bold">PANDAS</text></g>
+<g class="pill" style="animation:fadeIn .3s ease 5.3s forwards"><rect x="120" y="422" width="64" height="26" rx="13" fill="rgba(139,92,246,.14)" stroke="#6366f1" stroke-width="1"/><text x="152" y="439" text-anchor="middle" font-size="12" fill="#c4b5fd" font-weight="bold">NUMPY</text></g>
 <g class="pill" style="animation:fadeIn .3s ease 5.4s forwards"><rect x="192" y="422" width="130" height="26" rx="13" fill="rgba(255,126,182,.10)" stroke="#22d3ee" stroke-width="1"/><text x="257" y="439" text-anchor="middle" font-size="12" fill="#f9a8d4" font-weight="bold">Responsive UI</text></g>
 
 <!-- About Me -->
@@ -177,7 +177,7 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
 <text class="st" x="118" y="640" text-anchor="middle" font-size="18" font-weight="bold" fill="#22d3ee" filter="url(#glow)" style="animation:fadeIn .4s ease 6.6s forwards">8+</text>
 <text class="st" x="258" y="640" text-anchor="middle" font-size="18" font-weight="bold" fill="#38bdf8" filter="url(#glow)" style="animation:fadeIn .4s ease 6.75s forwards">500+</text>
 <text class="st" x="398" y="640" text-anchor="middle" font-size="18" font-weight="bold" fill="#fde047" filter="url(#glow)" style="animation:fadeIn .4s ease 6.9s forwards">50+</text>
-<text class="st" x="538" y="640" text-anchor="middle" font-size="18" font-weight="bold" fill="#818cf8" filter="url(#glow)" style="animation:fadeIn .4s ease 7.05s forwards">25+</text>
+<text class="st" x="538" y="640" text-anchor="middle" font-size="18" font-weight="bold" fill="#818cf8" filter="url(#glow)" style="animation:fadeIn .4s ease 7.05s forwards">10+</text>
 
 <!-- ================= RIGHT: ILLUSTRATION ================= -->
 <circle cx="1000" cy="440" r="270" fill="url(#girlGlow)"><animate attributeName="r" values="270;292;270" dur="5s" repeatCount="indefinite"/></circle>
