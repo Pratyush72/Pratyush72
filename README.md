@@ -81,7 +81,7 @@
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Pratyush72&theme=tokyonight&hide_border=true&background=0a0f1e&ring=22d3ee&fire=38bdf8&currStreakLabel=818cf8" alt="GitHub Streak"/>
-
+ 
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratyush72&bg_color=0a0f1e&color=22d3ee&line=6366f1&point=38bdf8&area=true&area_color=6366f1&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph" width="95%"/>
