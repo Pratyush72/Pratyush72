@@ -80,7 +80,9 @@
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Pratyush72&theme=tokyonight&hide_border=true&background=0a0f1e&ring=22d3ee&fire=38bdf8&currStreakLabel=818cf8" alt="GitHub Streak"/> 
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=Pratyush72&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
 
 <br/><br/>
 
