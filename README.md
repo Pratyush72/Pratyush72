@@ -6,7 +6,7 @@
   <source media="(prefers-color-scheme: light)" srcset="./assets/svg/banner-light.svg?v=1">
   <img src="./assets/svg/banner.svg?v=1" alt="Pratyush Chaubey — Full Stack Developer" width="100%"/>
 </picture>
-
+ 
 </div>
 
 <br/>
